@@ -1,2 +1,0 @@
-# timer
-Create a Timer
