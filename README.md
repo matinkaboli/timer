@@ -1,3 +1,3 @@
 # timer
 
-(Timer)[http://matinkaboli.ir/timer]
+http://matinkaboli.ir/timer
